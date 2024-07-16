@@ -1,4 +1,4 @@
-name: Build and Test SRLinker
+name: Build and Test RegBag
 
 on:
   push:
